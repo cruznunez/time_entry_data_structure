@@ -1,4 +1,4 @@
-require 'setup.rb'
+require './setup.rb'
 
 class TimeEntryMigration < ActiveRecord::Migration
   def change

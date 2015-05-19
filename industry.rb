@@ -1,4 +1,4 @@
-require 'setup.rb'
+require './setup.rb'
 
 class IndustryMigration < ActiveRecord::Migration
   def change
